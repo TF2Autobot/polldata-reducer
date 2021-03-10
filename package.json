@@ -1,0 +1,11 @@
+{
+  "name": "polldata-reducer",
+  "version": "1.0.0",
+  "description": "Reduce your polldata.json size by removing unnecessary property keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "IdiNium",
+  "license": "ISC"
+}
